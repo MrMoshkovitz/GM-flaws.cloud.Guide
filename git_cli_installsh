@@ -1,0 +1,4 @@
+
+#*          AWS CLI Install Script
+#? ----------------------------------------
+sudo apt install -y git
